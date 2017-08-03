@@ -25,7 +25,7 @@ SECRET_KEY = ')@j1l50drhpd616!*h7dd0@-@ay^89#5h$)l8*56uzzp1uh!$w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'hopekoiki>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'hopekoiki.pythonanywhere.com']
 
 
 # Application definition
